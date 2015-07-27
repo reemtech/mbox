@@ -5,6 +5,6 @@
   <thumbnail>https://test.jpg</thumbnail>
 <fanart>https://test.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hmemar/mbox.com/master/reemtech/mboxlist/ariptv.m3u</externallink>
+   <externallink>https://raw.githubusercontent.com/reemtech/mbox/master/ariptv.m3u</externallink>
 </channel>
 </channels>
