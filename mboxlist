@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+<channel>
+      <name>[COLOR lime]MBox Arabic TV[/COLOR]</name>
+  <thumbnail>https://test.jpg</thumbnail>
+<fanart>https://test.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/hmemar/mbox.com/master/reemtech/mboxlist/ariptv.m3u</externallink>
+</channel>
+  </channels>
