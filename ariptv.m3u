@@ -1,0 +1,586 @@
+#EXTM3U
+#EXTINF:-1 group-title="Arabic Channels",[COLOR yellow] Arabic Channels [/COLOR]
+#EXTINF:-1,MBC 2
+http://38.99.146.36:7777/MBC2_HD/MBC2_High.m3u8
+#EXTINF:0,MBC 4
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+#EXTINF:0,MBC ACTION
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:0,MBC MAX
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:0,MBC BOLLYWOOD
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:-1, Fox Movies Arabic
+http://185.5.222.227:4242/bysid/5608
+#EXTINF:-1, Al Jazeera Kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8?b?b*t$
+#EXTINF:0,Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8
+#EXTINF:0,Dubai One
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
+#EXTINF:-1,Noor Dubai
+http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w932561967_b1200000.m3u8
+#EXTINF:-1,AL SHARJAH
+rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
+#EXTINF:-1 , TRT Arabic |
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:0,Al Hadath
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1,Funoon TV
+http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
+#EXTINF:0,Alasr
+http://xtvalasrx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Medine
+http://46.245.160.224/medine/medine/gmswf.m3u8
+#EXTINF:-1,Mekke
+http://46.245.160.224/mekke/mekke/gmswf.m3u8
+#EXTINF:-1,Quran
+rtmp://208.75.224.165:1935/map-alquraan/map-alquraan.stream
+#EXTINF:0, Time Quran
+http://216.105.40.244/live/time_quran/index.m3u8
+#EXTINF:0,sunnah-TV
+rtmp://myafricanmega.tulix.tv:1935/map-alsunnah/map-alsunnah.stream
+#EXTINF:-1,Jordan
+rtmp://64.251.14.168/jorlive/jrtv
+#EXTINF:-1,Royatv
+http://212.35.75.130/3330/HasBahCa.m3u8?email=tac%40umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
+#EXTINF:-1,2M 
+http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
+#EXTINF:-1,Albaghdadia
+http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
+#EXTINF:-1,Syria drama
+http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8
+#EXTINF:-1,Syria Aloula
+http://82.137.248.21:1935/Aloula/AloulaLive3/HasBahCa.m3u8
+#EXTINF:-1,Syria-Nour
+http://82.137.248.21:1935/Nour/NourLive1/playlist.m3u8
+#EXTINF:-1,Talaqie
+rtmp://82.137.248.20/Talaqie/TalaqieLive2
+#EXTINF:-1,BBC Arabia
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,KTV ARABE
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
+#EXTINF:-1,KTV ETRAA
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch4.sdp
+#EXTINF:-1,Kuwait
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
+#EXTINF:-1,Tchad
+rtmp://tchad.streamakaci.com/tchad/tchad.stream
+#EXTINF:-1,Al Forat
+http://alforatlive.nanocdn.com:1935/live/alforat256/BratuMarian.m3u8
+#EXTINF:-1,Al-hurra Iraq 
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,Iraqiya
+http://212.7.205.5:1935/Iraqia/live/playlist.m3u8
+#EXTINF:-1,DW Arabia (Germany)
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#EXTINF:-1,Jordan
+rtmp://64.251.14.168/jorlive/jrtv
+#EXTINF:-1,AL Sharqiya
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+#EXTINF:-1,Rouge
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+#EXTINF:-1,Royatv
+http://212.35.75.130/3330/HasBahCa.m3u8?email=tac%40umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
+#EXTINF:-1,Speda (Kurdistan)
+rtmp://sepidehlive.nanocdn.com:1935/live/sepideh256
+#EXTINF:-1,BAHRIN
+rtmp://alayam.netromedia.net/btv2 playpath=btv2 swfUrl=http://player.netromedia.com/flowplayer.commercial-3.2.18.swf pageUrl=http://player.netromedia.com/?ID=4d0292f1-e996-4dff-bdcd-01bf49aea468&iframe=true&autoPlay=true&scaling=scale
+#EXTINF:-1,Baghdad
+http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
+#EXTINF:-1,Baghdad tv
+http://streamer1.hamuraabi.com:1935/baghdad/live/HasBahCa.m3u8
+#EXTINF:-1,Kuwait
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
+#EXTINF:-1,KTV ARABE
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
+#EXTINF:-1,KTV ETRAA
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch4.sdp
+#EXTINF:-1,Al Forat
+http://alforatlive.nanocdn.com:1935/live/alforat256/HasBahCa.m3u8
+#EXTINF:-1,Tchad
+rtmp://tchad.streamakaci.com/tchad/tchad.stream
+#EXTINF:-1,AL Sharqiya
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+
+#EXTINF:-1 group-title="News Channels",[COLOR yellow]--- News Channels ---[/COLOR]
+#EXTINF:0,Aljazeera
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_828.m3u8
+#EXTINF:-1,ALJAZERRA En
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_264.m3u8
+#EXTINF:0,ALJAZERRA En 2
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
+#EXTINF:-1,Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1,BBC Arabia
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,BBC News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1,i24 News Arabia
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
+#EXTINF:0,DW Arabia (Germany)
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#EXTINF:-1, Al-hurra Iraq
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
+#EXTINF:-1, London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1, Sky News International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+#EXTINF:-1, ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1, BLOOMBERG (USA)
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+#EXTINF:-1, CNN 
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:0,CNN USA HD
+http://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
+#EXTINF:0, FOX News
+http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
+#EXTINF:-1, i24 News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8?Vd?u#bt!25
+#EXTINF:0, MSNBC
+http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
+
+#EXTINF:-1 group-title="Sport Channels",[COLOR yellow] Sport Channels [/COLOR]
+#EXTINF:-1,0 ,SaudiSport
+http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Kuwait TV / KTV Sports Extra
+rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
+#EXTINF:-1,Sports Night 
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+#EXTINF:-1,Big Ten Network HD
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1,Antena 3 Sports
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,SportTime TV 1 
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+#EXTINF:-1,SportTime TV 5 
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:-1,SportTime TV 6 
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+
+#EXTINF:-1 group-title="English Movies",[COLOR yellow] English Movies [/COLOR]
+#EXTINF:0, HBO HD 
+http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
+#EXTINF:-1, HBO Plus
+rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe
+#EXTINF:0,Top Movies 
+http://216.105.40.244/live/top_movies/index.m3u8
+#EXTINF:0, 24/7 Jackie Chan movies (1979-1990)
+http://93.174.95.125:1935/edge/_definst_/gby01m6h4xd3lag/playlist.m3u8?wowzasessionid=1420169835
+#EXTINF:0, 24/7 Jackie Chan movies (1991-2008)
+http://93.174.95.125:1935/edge/_definst_/aq6ijlszct7wfl4/playlist.m3u8?wowzasessionid=1420169797
+#EXTINF:0,MBC BOLLYWOOD
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:-1, Film4 HD
+http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
+#EXTINF:-1, HBO Plus EN
+rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe
+#EXTINF:-1,xmen1
+http://www.deadlyblogger.com/NewRelease/xmen1.mp4
+#EXTINF:-1,xmen2
+http://www.deadlyblogger.com/NewRelease/xmen2.mp4
+#EXTINF:-1,xmen3
+http://www.deadlyblogger.com/NewRelease/xmen3.mp4
+#EXTINF:-1,xmen origin
+http://www.deadlyblogger.com/NewRelease/origin.mp4
+#EXTINF:-1,xmen the last stand
+http://www.deadlyblogger.com/NewRelease/xmen3.mp4
+#EXTINF:-1,xmen first class
+http://www.deadlyblogger.com/NewRelease/xmen4.mp4
+#EXTINF:-1,The Wolverine (FILM)
+http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
+#EXTINF:-1, Mad Max (1979) 720p BluRay
+http://standalonecomplex.org/torque/complete/Mad.Max.1979.720p.BluRay.x264-CiNEFiLE.mkv
+#EXTINF:-1, Mad Max (1981) 720p Bluray
+http://standalonecomplex.org/torque/complete/Mad.Max.2.1981.720p.Bluray.x264-CtrlHD/Mad.Max.2.1981.720p.Bluray.x264-CtrlHD.mkv
+#EXTINF:-1, Mad Max Beyond Thunderdome (1985) 720p BluRay
+http://standalonecomplex.org/torque/complete/Mad.Max.Beyond.Thunderdome.1985.720p.BluRay.x264-SiNNERS/Mad.Max.Beyond.Thunderdome.1985.720p.BluRay.x264-SiNNERS.mkv
+#EXTINF:-1,After Earth (FILM)
+http://www.deadlyblogger.com/NewRelease/after.mp4
+#EXTINF:-1,Bad Boys 2 (FILM)
+http://www.deadlyblogger.com/NewRelease/badboys2.mp4
+#EXTINF:-1,Bad Words (FILM)
+http://www.deadlyblogger.com/NewRelease/badwords.mp4
+#EXTINF:-1,Blade 1 (FILM)
+http://www.deadlyblogger.com/NewRelease/blade1.mp4
+#EXTINF:-1,Blade 2 (FILM)
+http://www.deadlyblogger.com/NewRelease/blade2.mp4
+#EXTINF:-1,Blade 3 (FILM)
+http://www.deadlyblogger.com/NewRelease/blade3.mp4
+#EXTINF:-1,Congo (FILM)
+http://www.deadlyblogger.com/NewRelease/congo1995.mp4
+#EXTINF:-1,Crimson Tide (FILM)
+http://www.deadlyblogger.com/NewRelease/crimson.mp4
+#EXTINF:-1,Empire State (FILM)
+http://www.deadlyblogger.com/NewRelease/empirestate.mp4
+#EXTINF:-1,Escape Plan (FILM)
+http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4
+#EXTINF:-1,Flight (FILM)
+http://www.deadlyblogger.com/NewRelease/flight1.mp4
+#EXTINF:-1,Grudge Match (FILM)
+http://www.deadlyblogger.com/NewRelease/grudgematch.mp4
+#EXTINF:-1,Maleficent (FILM)
+http://www.deadlyblogger.com/NewRelease/maleficent.mp4
+#EXTINF:-1,Need For Speed (FILM)
+http://www.deadlyblogger.com/NewRelease/needforspeed.mp4
+#EXTINF:-1,Tammy (FILM)
+http://www.deadlyblogger.com/NewRelease/tammy2014.mp4
+#EXTINF:-1,The Family (FILM)
+http://www.deadlyblogger.com/NewRelease/thefamily2013.mp4
+#EXTINF:-1,The Hobbit The Desolation Of Smaug (FILM)
+http://www.deadlyblogger.com/NewRelease/smaug2013.mp4
+#EXTINF:-1,The Lego Movie (FILM)
+http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4
+#EXTINF:-1,The Single Moms Club (FILM)
+http://www.deadlyblogger.com/NewRelease/singlemom.mp4
+#EXTINF:-1,Turbo (FILM)
+http://www.deadlyblogger.com/NewRelease/turbo.mp4
+#EXTINF:-1,WeӲe The Millers (FILM)
+http://www.deadlyblogger.com/NewRelease/millers.mp4
+
+#EXTINF:-1 group-title="Arabic Movies",[COLOR yellow] Arabic Movies [/COLOR]
+#EXTINF:-1,3oche_elbolbol
+http://flv.alarab.net:8080//flv/81232.flv?start=0
+#EXTINF:-1,5otat_jimi
+http://flv.alarab.net:8080//flv/74722.flv?start=0
+#EXTINF:-1,7alawat_rou7
+http://flv.alarab.net:8080//flv/80106.flv?start=0
+#EXTINF:-1,7amati_bit7ibini
+http://flv.alarab.net:8080//flv/83334.flv?start=0
+#EXTINF:-1,7olm_omr
+http://flv.alarab.net:8080//flv/76547.flv?start=0
+#EXTINF:-1,achita_lifat
+http://flv.alarab.net:8080//flv/75166.flv?start=0
+#EXTINF:-1,al_9achach
+http://flv.alarab.net:8080//flv/83155.flv?start=0
+#EXTINF:-1,al7ab_al3alamia_athalitha
+http://flv.alarab.net:8080//flv/80272.flv?start=0
+#EXTINF:-1,alharibatan
+http://flv.alarab.net:8080//flv/76509.flv?start=0
+#EXTINF:-1,aljazeera2
+http://flv.alarab.net:8080//flv/81800.flv?start=0
+#EXTINF:-1,flv aljazeera 2
+http://flv.alarab.net:8080//flv/81800.flv
+#EXTINF:-1,almo3dia
+http://flv.alarab.net:8080//flv/82374.flv?start=0
+#EXTINF:-1,amwaj_9assira
+http://flv.alarab.net:8080//flv/79349.flv?start=0
+#EXTINF:-1,atarik_adairi
+http://flv.alarab.net:8080//flv/81569.flv?start=0
+#EXTINF:-1,bibi
+http://flv.alarab.net:8080//flv/76517.flv?start=0
+#EXTINF:-1,captin_hima
+http://flv.alarab.net:8080//flv/81153.flv?start=0
+#EXTINF:-1,Tchad
+rtmp://tchad.streamakaci.com/tchad/tchad.stream
+#EXTINF:-1,THE_DEALER
+http://flv.alarab.net:8080//flv/80603.flv?start=0
+#EXTINF:-1,villa69
+http://flv.alarab.net:8080//flv/79937.flv?start=0
+#EXTINF:-1,wahd_saidi
+http://flv.alarab.net:8080//flv/83056.flv?start=0
+#EXTINF:-1,taxi_albalad_lebanon
+http://flv.alarab.net:8080//flv/76253.flv?start=0
+#EXTINF:-1,salam_abou_o5to
+http://flv.alarab.net:8080//flv/80018.flv?start=0
+#EXTINF:-1,nazariat_3amiti
+http://flv.alarab.net:8080//flv/83198.flv?start=0
+#EXTINF:-1,morjan_ahmed_morjan
+http://flv.alarab.net:8080//flv/81372.flv?start=0
+#EXTINF:-1,mot3ib_wa_chadia
+http://flv.alarab.net:8080//flv/74720.flv?start=0
+#EXTINF:-1,lamoa5da
+http://flv.alarab.net:8080//flv/81304.flv?start=0
+#EXTINF:-1,made_in_egypt
+http://flv.alarab.net:8080//flv/79970.flv?start=0
+#EXTINF:-1,marati_wa_zawjati
+http://flv.alarab.net:8080//flv/80578.flv?start=0
+#EXTINF:-1,jawazat_miry
+http://flv.alarab.net:8080//flv/80472.flv?start=0
+#EXTINF:-1,hojoum_montasaf_alil
+http://flv.alarab.net:8080//flv/81251.flv?start=0
+#EXTINF:-1,houjoum_montasaf_alil
+http://flv.alarab.net:8080//flv/76585.flv?start=0
+#EXTINF:-1,elphil_ alazra9
+http://flv.alarab.net:8080//flv/80344.flv?start=0
+#EXTINF:-1,kalam_jarayad
+http://flv.alarab.net:8080//flv/74953.flv?start=0
+#EXTINF:-1, Djinn 2014 
+http://flv.alarab.net:8080//flv/85194.flv?start=0
+#EXTINF:-1, سوء تفاهم كامل تصوير سينما - كوميدي حركة اونلاين 2015
+http://flv.alarab.net:8080//flv/84844.flv?start=0
+#EXTINF:-1, فيلم خطة بديلة كامل تصوير سينما - دراما تشويق و إثارة اونلاين 2015
+http://flv.alarab.net:8080//flv/84843.flv?start=0
+#EXTINF:-1, فيلم يوم مالوش لازمة كامل ts cam تصوير سينما اون لاين 2015
+http://flv.alarab.net:8080//flv/84681.flv?start=0
+#EXTINF:-1, فيلم هز وسط البلد كامل بجودة ts cam تصوير سينما اون لاين 2015
+http://flv.alarab.net:8080//flv/84679.flv?start=0
+#EXTINF:-1, لفيلم اللبناني غدي 2015
+http://flv.alarab.net:8080//flv/84551.flv?start=0
+#EXTINF:-1,فيلم اسوار القمر كامل اون لاين 2015
+http://flv.alarab.net:8080//flv/84548.flv?start=0
+#EXTINF:-1, الفيلم المغربي الخونة اون لاين 2015
+http://flv.alarab.net:8080//flv/84539.flv?start=0
+#EXTINF:-1, فيلم ريجاتا كامل مشاهدة اون لاين 2015
+http://flv.alarab.net:8080//flv/84488.flv?start=0
+#EXTINF:-1, ريلر فيلم اسوار القمر مشاهدة اون لاين 2015
+http://flv.alarab.net:8080//flv/84208.flv?start=0
+#EXTINF:-1, فيلم_بتوقيت_القاهرة_مصري_اكشن_2015
+http://flv.alarab.net:8080//flv/84197.flv?start=0
+#EXTINF:-1, فيلم_القط_كامل_مشاهدة_اون_2015
+http://flv.alarab.net:8080//flv/84088.flv?start=0
+#EXTINF:-1, فيلم_المهرجان_the_festival_2014
+http://flv.alarab.net:8080//flv/83854.flv?start=0
+#EXTINF:-1, من الف الى باء - From A to B فيلم عربي مصري اماراتي مشترك دراما كوميدي اجتماعي بجودة سينما 2015
+http://flv.alarab.net:8080//flv/83809.flv?start=0
+#EXTINF:-1, فيلم_المكيدة_كامل_مصري_اكشن_2015
+http://flv.alarab.net:8080//flv/83710.flv?start=0
+#EXTINF:-1, فيلم_جرسونيرة_كامل_2013_بجودة_
+http://flv.alarab.net:8080//flv/83685.flv?start=0
+#EXTINF:-1, _فيلم_عمر_وسلوى_Omar_2014
+http://flv.alarab.net:8080//flv/83554.flv?start=0
+#EXTINF:-1, حماتي_بتحبني_فيلم_مصري_كوميدي_2014
+http://flv.alarab.net:8080//flv/83334.flv?start=0
+#EXTINF:-1, _نظرية_عمتي_فيلم_مصري_كوميدي_2014
+http://flv.alarab.net:8080//flv/83198.flv?start=0
+#EXTINF:-1, _فيلم_HIV_اتش_اي_في_
+http://flv.alarab.net:8080//flv/83196.flv?start=0
+#EXTINF:-1, -_فيلم_القشاش_مصري_اكشن_2014
+http://flv.alarab.net:8080//flv/83155.flv?start=0
+#EXTINF:-1, _فيلم_واحد_صعيدي_كوميدي_اجتماعي_2014
+http://flv.alarab.net:8080//flv/83056.flv?start=0
+#EXTINF:-1, حلاوة روح
+http://cdn.playwire.com/15448/video-20140808-1202144.mp4
+#EXTINF:-1, حلاوة روح
+http://flv.alarab.net:8080//flv/80106.flv?start=0
+#EXTINF:-1,flv 3oche_elbolbol
+http://flv.alarab.net:8080//flv/81232.flv
+#EXTINF:-1,flv 5otat_jimi
+http://flv.alarab.net:8080//flv/74722.flv
+#EXTINF:-1,flv 7alawat_rou7
+http://flv.alarab.net:8080//flv/80106.flv
+#EXTINF:-1,flv 7amati_bit7ibini
+http://flv.alarab.net:8080//flv/83334.flv
+#EXTINF:-1,flv 7olm_omr
+http://flv.alarab.net:8080//flv/76547.flv
+#EXTINF:-1,flv achita_lifat
+http://flv.alarab.net:8080//flv/75166.flv
+#EXTINF:-1,flv al_9achach
+http://flv.alarab.net:8080//flv/83155.flv
+#EXTINF:-1,flv al7ab_al3alamia_athalitha
+http://flv.alarab.net:8080//flv/80272.flv
+#EXTINF:-1,flv alharibatan
+http://flv.alarab.net:8080//flv/76509.flv
+#EXTINF:-1,flv almo3dia
+http://flv.alarab.net:8080//flv/82374.flv
+#EXTINF:-1,flv amwaj_9assira
+http://flv.alarab.net:8080//flv/79349.flv
+#EXTINF:-1,flv atarik_adairi
+http://flv.alarab.net:8080//flv/81569.flv
+#EXTINF:-1,flv bibi
+http://flv.alarab.net:8080//flv/76517.flv
+#EXTINF:-1,flv captin_hima
+http://flv.alarab.net:8080//flv/81153.flv
+#EXTINF:-1,flv elphil_ alazra9
+http://flv.alarab.net:8080//flv/80344.flv
+#EXTINF:-1,flv hojoum_montasaf_alil
+http://flv.alarab.net:8080//flv/81251.flv
+#EXTINF:-1,flv houjoum_montasaf_alil
+http://flv.alarab.net:8080//flv/76585.flv
+#EXTINF:-1,flv jawazat_miry
+http://flv.alarab.net:8080//flv/80472.flv
+#EXTINF:-1,flv kalam_jarayad
+http://flv.alarab.net:8080//flv/74953.flv
+#EXTINF:-1,flv lamoa5da
+http://flv.alarab.net:8080//flv/81304.flv
+#EXTINF:-1,flv made_in_egypt
+http://flv.alarab.net:8080//flv/79970.flv
+#EXTINF:-1,flv marati_wa_zawjati
+http://flv.alarab.net:8080//flv/80578.flv
+#EXTINF:-1,flv morjan_ahmed_morjan
+http://flv.alarab.net:8080//flv/81372.flv
+#EXTINF:-1,flv mot3ib_wa_chadia
+http://flv.alarab.net:8080//flv/74720.flv
+#EXTINF:-1,flv nazariat_3amiti
+http://flv.alarab.net:8080//flv/83198.flv
+#EXTINF:-1,flv salam_abou_o5to
+http://flv.alarab.net:8080//flv/80018.flv
+#EXTINF:-1,flv taxi_albalad_lebanon
+http://flv.alarab.net:8080//flv/76253.flv
+#EXTINF:-1,flv THE_DEALER
+http://flv.alarab.net:8080//flv/80603.flv
+#EXTINF:-1,flv villa69
+http://flv.alarab.net:8080//flv/79937.flv
+
+#EXTINF:-1 group-title="English Channels",[COLOR yellow] English Channels [/COLOR]
+#EXTINF:0, ABC News 
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:0,Al Jazeera News 
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
+#EXTINF:0,CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1,BBC News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?Vd?u#bt!25
+#EXTINF:0,BBC News 
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1, BBC World News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?b?b*t$
+#EXTINF:0,I24 News English 
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+#EXTINF:-1,i24news
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8?Vd?u#bt!25
+#EXTINF:-1,Bloomberg
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+#EXTINF:-1,CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1,ABC NEWS 
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1,Fashion TV
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8?b?b*t$
+#EXTINF:-1,PAC National
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:0,PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8?
+#EXTINF:-1,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1,USA:Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,USA:Vevo2 HD 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,USA:Vevo3 HD 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1 , Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:0, Discovery Channel
+http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
+#EXTINF:-1, Discovery Sc. HD
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:0, History Channel (USA)
+http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
+#EXTINF:0, Nat GEO HD
+http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
+#EXTINF:-1, 1HD
+http://109.239.142.62:1935/live/livestream3/playlist.m3u8
+#EXTINF:0, Now Thats What I Call Music Channel
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1, USA:Kiss Tv
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1, Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1, Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1, Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1, VH1 CLASSIC
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8
+#EXTINF:0, ABC 22 HD
+http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
+#EXTINF:0, AMC 
+http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
+#EXTINF:0, BET
+http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467
+#EXTINF:-1, CBS 
+http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048
+#EXTINF:0, Food Network
+http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
+#EXTINF:0, Hallmark HD 
+http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
+#EXTINF:0, I.D. Investigation Discovery
+http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
+#EXTINF:0, NBC HD
+http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
+#EXTINF:0, 24/7 NCIS
+http://93.174.95.125:1935/edge/_definst_/866l7jy73xntgpa/playlist.m3u8?wowzasessionid=1419879488
+#EXTINF:0, Showtime HD
+http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
+#EXTINF:0, SyFy
+http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
+#EXTINF:0, TBS
+http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
+#EXTINF:0, TLC
+http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929
+#EXTINF:0, TNT HD 
+http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
+#EXTINF:0, TV Land
+http://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca/playlist.m3u8?wowzasessionid=1419908401
+#EXTINF:-1, USA Live TV Big Ten Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:0, USA Network
+http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
+#EXTINF:0, VH-1
+http://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560
+#EXTINF:-1, CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Channel AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1, Clubland TV
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1, DANCE TV
+http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+#EXTINF:-1, Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1, MTV Dance HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+#EXTINF:-1, MTV Hits
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
+#EXTINF:-1, MTV Rocks HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+#EXTINF:-1,Fashion TV
+http://80.77.52.6:3917/udp/226.0.1.42:12345
+#EXTINF:-0,TLC USA 
+http://80.80.160.168/live/2/500000/playlist.m3u8
+#EXTINF:-1, ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1, CNN International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1, HSN
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+#EXTINF:-1, HSN 2
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
+#EXTINF:-1, University of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+#EXTINF:-1, TWiT Live
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, NBC GOLF SD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1, NBC GOLF 720p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1, NBC GOLF 1080p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBC Sports Network 1080P
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,USA Live TV Big Ten Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1,USA:Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,USA:Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,USA:Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:0, Cartoon Network
+http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
+#EXTINF:0, Disney Channel HD 
+http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
